@@ -1,0 +1,34 @@
+name: tas_kagit_makas
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+     - images/rock_hand.png
+     - images/paper_hand.png
+     - images/scissors_hand.png
+     - images/android_icon.png
+
+
+
