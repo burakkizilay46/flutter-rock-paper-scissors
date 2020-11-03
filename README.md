@@ -1,6 +1,6 @@
 # tas_kagit_makas
 
-A new Flutter project.
+This is a project example of the game "Rock Paper Scissors" built with Flutter.
 
 ## Getting Started
 
